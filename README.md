@@ -16,6 +16,7 @@ A Discord client for old Android <4.x devices. Uses proxy servers for the [HTTP]
 * Message sending
 * Gateway/live message updates
 * Attachment viewing
+* Emojis (small amount of emojis)
 
 ### Not implemented
 * Message editing
@@ -26,7 +27,7 @@ A Discord client for old Android <4.x devices. Uses proxy servers for the [HTTP]
 * Unread message indicators
 * Jumping to messages (e.g. replies)
 * Ping indicators
-* Reactions and emojis
+* Reactions
 * Settings
 
 ## Credits
