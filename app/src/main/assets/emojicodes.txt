@@ -9,3 +9,17 @@
 :expressionless:
 :hearth:
 :fire:
+:anguished:
+:confused:
+:frowning:
+:grimacing:
+:grinning:
+:hushed:
+:kissing:
+:kissing_smiling_eyes:
+:stuck_out_tongue_winking_eye:
+:sleeping:
+:open_mouth:
+:stuck_out_tongue_closed_eyes:
+:stuck_out_tongue:
+:worried:
